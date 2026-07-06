@@ -33,35 +33,17 @@ I have used these tools and methods in coursework, research projects, internship
 - Monte Carlo simulation
 - Data cleaning and visualization
 
-## Selected Projects
+## Education Background
 
-### [Long-Term Care Insurance and Employment](https://github.com/WeiLai-OpsFin/the-impact-of-long-term-care-insurance-on-employment)
+My academic background is in Applied Economics, with training across economics, finance, econometrics, and data analysis. I am especially interested in using this background to understand how financial systems interact with firms, banks, and real industrial chains.
 
-A Stata-based applied econometrics project using city-level panel data to study the employment effects of China's long-term care insurance pilot policy.  
-Methods include DID, event study, robustness checks, placebo tests, heterogeneity analysis, and PSM-DID.
+My coursework and project experience have centered on:
 
-### [Credit Risk Ridge Regression](https://github.com/WeiLai-OpsFin/credit-risk-ridge-regression)
-
-A Python-based credit risk modeling project using bank-year panel data to analyze non-performing loan ratios and banking risk indicators.  
-Methods include OLS, ridge regression, lagged variables, robustness checks, VIF diagnostics, and automated result outputs.
-
-### [Digital Supply Chain Finance and Greenwashing](https://github.com/WeiLai-OpsFin/digital-supply-chain-finance-greenwashing)
-
-A firm-level panel data project exploring the relationship between digital supply chain finance and corporate greenwashing behavior.  
-Methods include fixed effects, robustness checks, DML-based exploration, and firm-year data processing.
-
-### [Financial Time Series Analysis](https://github.com/WeiLai-OpsFin/financial-time-series-analysis)
-
-A Stata-based time-series econometrics project covering unit root tests, cointegration, error-correction models, and structural break analysis.
-
-### [Fake Review Data Analysis](https://github.com/WeiLai-OpsFin/fake-review-data-analysis)
-
-A Python-based business analytics project studying how fake online reviews affect consumer trust, perceived risk, and hotel booking intention.  
-Methods include survey data cleaning, PLS-SEM workflow, bootstrap mediation testing, and reliability and validity checks.
-
-### [COMAP WNBA Valuation Model](https://github.com/WeiLai-OpsFin/comap-icm-2026-d-finalist-wnba-team-valuation-model)
-
-A Python modeling project for sports-team valuation, integrating Elo-based win prediction, attendance modeling, revenue estimation, DCF valuation, Monte Carlo simulation, and sensitivity analysis.
+- Applied economics and empirical research
+- Corporate finance, banking, and credit risk
+- Applied econometrics and panel data methods
+- Business analytics and data-driven decision-making
+- Supply chain finance and real-economy financing
 
 ## What I Care About
 
@@ -76,5 +58,5 @@ I care less about using models for their own sake and more about connecting mode
 
 ## Contact
 
-You can find my projects here on GitHub.  
+You can find my project repositories here on GitHub.  
 Email: laiwei_456@qq.com
