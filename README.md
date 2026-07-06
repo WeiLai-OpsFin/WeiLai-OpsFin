@@ -77,4 +77,4 @@ I care less about using models for their own sake and more about connecting mode
 ## Contact
 
 You can find my projects here on GitHub.  
-Email: s230001108@mail.uic.edu.cn
+Email: laiwei_456@qq.com
