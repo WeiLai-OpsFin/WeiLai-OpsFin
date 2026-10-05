@@ -2,7 +2,7 @@
 
 Hi, I’m Lai Wei, an Applied Economics graduate from BNBU with First Class Honours.
 
-This is where I keep code, project notes, and things I’m learning. My projects have taken me through different questions, from long-term care policy and bank data to sports team modelling. I’m still exploring what I want to work on next.
+I’m interested in economics and operations management. This is where I keep code, project notes, and things I’m learning. My projects have taken me through different questions, from long-term care policy and bank data to sports team modelling. I’m still exploring what I want to work on next.
 
 ## A few projects
 
